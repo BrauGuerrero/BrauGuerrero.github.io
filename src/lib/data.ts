@@ -1,58 +1,81 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  name: "Braulio Guerrero Neri",
+  location: "Querétaro, Qro.",
+  email: "brauguerrero@live.com",
+  github: "https://github.com/BrauGuerrero",
+  linkedin: "https://www.linkedin.com/in/braulio-guerrero-neri-1a460b158/",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "Soy Braulio, analista de datos orientado a resolver problemas reales con soluciones claras. Combino análisis, visualización y automatización para mejorar procesos y tomar decisiones basadas en evidencia. Me enfoco en entender el contexto, encontrar los patrones que importan y convertirlos en acciones que generan impacto. Aquí muestro mis proyectos, habilidades y experiencia como analista en crecimiento continuo.",
 };
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "Dayton Lamina",
+    location: "Querétaro, MX",
+    position: "Compras",
+    period: "Abril 2024 – Actualidad",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+      "Diseñé un sistema de control de órdenes y proveedores en Excel.",
+      "Automaticé reportes diarios que ahorran 1 hora diaria y reducen errores manuales.",
     ],
   },
   {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
+    company: "Dayton Lamina",
+    location: "Querétaro, MX",
+    position: "Procesador",
+    period: "Febrero 2023 – Abril 2024",
     achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
+      "Analicé rutas de proceso y tiempos por operación; propuse cambios que redujeron tiempos y mejoraron la eficiencia.",
     ],
   },
   {
-    company: "Consectetur Inc.",
-    location: "Adipiscing, Ipsum",
-    position: "Intern",
-    period: "Jun 2018 - Feb 2019",
+    company: "Dayton Lamina",
+    location: "Querétaro, MX",
+    position: "Estimador / Cotizador",
+    period: "Noviembre 2022 – Febrero 2023",
     achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
+      "Estandaricé plantillas que redujeron la variabilidad entre cotizadores y mejoraron la trazabilidad de supuestos.",
+    ],
+  },
+  {
+    company: "Dayton Lamina",
+    location: "Querétaro, MX",
+    position: "Atención a Clientes",
+    period: "Septiembre 2022 – Noviembre 2022",
+    achievements: [
+      "Diseñé un sistema de control de órdenes y clientes en Excel.",
+    ],
+  },
+  {
+    company: "Dayton Lamina",
+    location: "Querétaro, MX",
+    position: "Practicante de Procesador",
+    period: "Febrero 2022 – Septiembre 2022",
+    achievements: [
+      "Optimicé cotizaciones mediante un modelo en Excel basado en tiempos de proceso.",
     ],
   },
 ];
 
 export const education = [
   {
-    institution: "Lorem Ipsum University",
-    location: "Lorem City",
-    degree: "BSc Lorem Ipsum",
-    period: "2015 - 2019",
+    institution: "TripleTen",
+    location: "Remoto",
+    degree: "Bootcamp Data Analyst",
+    period: "Julio 2024 – Septiembre 2025",
+    achievements: [
+      "President of Lorem Ipsum Club",
+      "Organized multiple lorem events",
+      "Represented university in national competitions.",
+      "Graduated with honors.",
+    ],
+  },
+  {
+    institution: "Universidad Aeronáutica en Querétaro (UNAQ)",
+    location: "Querétaro, MX",
+    degree: "Licenciatura en Ingeniería en Diseño Mecánico Aeronáutico",
+    period: "Septiembre 2016 – Octubre 2021",
     achievements: [
       "President of Lorem Ipsum Club",
       "Organized multiple lorem events",
@@ -63,57 +86,36 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "LoremLang",
-    "IpsumScript",
-    "DolorLang",
-    "SitLang",
-    "AmetLang",
-    "ConsecteturLang",
+    "Python"
   ],
   frontendDevelopment: [
-    "LoremJS",
-    "IpsumJS",
-    "Dolor Native",
-    "Sit UI",
-    "Amet CSS",
-    "HTML",
-    "CSS",
+    "LoremJS"
   ],
   backendDevelopment: ["LoremNode", "IpsumExpress"],
   databaseAndStorage: ["LoremDB", "IpsumORM"],
   cloudAndDevOps: ["LoremCloud"],
   toolsAndServices: [
-    "LoremAuth",
-    "IpsumCMS",
-    "DolorAnalytics",
-    "SitValidator",
-    "AmetMonitor",
-    "ConsecteturPanel",
-    "AdipiscingTrigger",
+    "LoremAuth"
   ],
 };
 
 export const projects = [
   {
-    title: "Lorem Ipsum Project",
-    github: "https://github.com/loremipsum/project",
+    title: "Telecom Data Analysis",
+    github: "https://github.com/BrauGuerrero/Telecom-Data-Analysis-Identificaci-n-de-Operadores-Ineficaces",
     description: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
+      "Análisis de datos de telecomunicaciones para detectar operadores con bajo rendimiento.",
+      "Logros: Identifiqué patrones de ineficacia basados en métricas de desempeño; validé diferencias significativas entre grupos mediante pruebas estadísticas y propuse criterios de evaluación operativa.",
+      "Tecnologías: Python (Pandas, Matplotlib, SciPy).",
     ],
   },
   {
-    title: "Dolor Sit Amet App",
-    github: "https://github.com/loremipsum/dolorapp",
+    title: "Análisis de Embudo y Test A/A/B",
+    github: "https://github.com/BrauGuerrero/An-lisis-de-Usuarios-y-Test-A-A-B",
     description: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-      "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
+      "Análisis del comportamiento de usuarios para evaluar el impacto de una actualización en las ventas de la aplicación.",
+      "Logros: Determiné las etapas con mayor pérdida de usuarios; comprobé la correcta aleatorización de grupos A/A; validé que el cambio de diseño no afectaba la conversión utilizando pruebas estadísticas.",
+      "Tecnologías: Python (Pandas, Matplotlib, SciPy).",
     ],
   },
 ];
@@ -125,41 +127,6 @@ export const awards = [
     date: "Jan 2020",
     type: "International",
     position: "First Place",
-  },
-  {
-    name: "Dolor Sit Amet Prize",
-    issuer: "Ipsum Foundation",
-    date: "Feb 2021",
-    type: "National",
-    position: "Runner-up",
-  },
-  {
-    name: "Consectetur Hackathon",
-    issuer: "Adipiscing Org",
-    date: "Mar 2022",
-    type: "National",
-    position: "Winner",
-  },
-  {
-    name: "Vestibulum Event",
-    issuer: "Vestibulum College",
-    date: "Apr 2022",
-    type: "National",
-    position: "First Prize",
-  },
-  {
-    name: "Curabitur Hackfest",
-    issuer: "Curabitur Institute",
-    date: "May 2022",
-    type: "National",
-    position: "Second Prize",
-  },
-  {
-    name: "Praesent Hacks",
-    issuer: "Praesent Group",
-    date: "Jun 2022",
-    type: "National",
-    position: "Second Runner-up",
   },
   {
     name: "Fusce Hack",
