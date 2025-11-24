@@ -4,7 +4,7 @@ export const personalInfo = {
   email: "brauguerrero@live.com",
   github: "https://github.com/BrauGuerrero",
   linkedin: "https://www.linkedin.com/in/braulio-guerrero-neri-1a460b158/",
-  profilePicture: "/profile.jpeg",
+  profilePicture: "/1635274924966.jpg",
   heroDescription:
     "Soy Braulio, analista de datos orientado a resolver problemas reales con soluciones claras. Combino análisis, visualización y automatización para mejorar procesos y tomar decisiones basadas en evidencia. Me enfoco en entender el contexto, encontrar los patrones que importan y convertirlos en acciones que generan impacto. Aquí muestro mis proyectos, habilidades y experiencia como analista en crecimiento continuo.",
 };
