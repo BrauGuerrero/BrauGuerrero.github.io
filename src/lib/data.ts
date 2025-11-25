@@ -123,4 +123,4 @@ export const projects = [
 //    type: "National",
 //    position: "Most Impactful Hack",
 //  },
-];
+//];
