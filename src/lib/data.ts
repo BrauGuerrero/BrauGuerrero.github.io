@@ -65,10 +65,7 @@ export const education = [
     degree: "Bootcamp Data Analyst",
     period: "Julio 2024 – Septiembre 2025",
     achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
+      "President of Lorem Ipsum Club"
     ],
   },
   {
@@ -77,26 +74,17 @@ export const education = [
     degree: "Licenciatura en Ingeniería en Diseño Mecánico Aeronáutico",
     period: "Septiembre 2016 – Octubre 2021",
     achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
+      "President of Lorem Ipsum Club"
     ],
   },
 ];
 export const skills = {
-  programmingLanguages: [
-    "Python"
-  ],
-  frontendDevelopment: [
-    "LoremJS"
-  ],
-  backendDevelopment: ["LoremNode", "IpsumExpress"],
-  databaseAndStorage: ["LoremDB", "IpsumORM"],
-  cloudAndDevOps: ["LoremCloud"],
-  toolsAndServices: [
-    "LoremAuth"
-  ],
+  programmingLanguages: ["Python"],
+  frontendDevelopment: [],
+  backendDevelopment: [],
+  databaseAndStorage: [],
+  cloudAndDevOps: [],
+  toolsAndServices: [],
 };
 
 export const projects = [
@@ -104,7 +92,7 @@ export const projects = [
     title: "Telecom Data Analysis",
     github: "https://github.com/BrauGuerrero/Telecom-Data-Analysis-Identificaci-n-de-Operadores-Ineficaces",
     description: [
-      "Análisis de datos de telecomunicaciones para detectar operadores con bajo rendimiento.",
+      "Descripción: Análisis de datos de telecomunicaciones para detectar operadores con bajo rendimiento.",
       "Logros: Identifiqué patrones de ineficacia basados en métricas de desempeño; validé diferencias significativas entre grupos mediante pruebas estadísticas y propuse criterios de evaluación operativa.",
       "Tecnologías: Python (Pandas, Matplotlib, SciPy).",
     ],
@@ -113,7 +101,7 @@ export const projects = [
     title: "Análisis de Embudo y Test A/A/B",
     github: "https://github.com/BrauGuerrero/An-lisis-de-Usuarios-y-Test-A-A-B",
     description: [
-      "Análisis del comportamiento de usuarios para evaluar el impacto de una actualización en las ventas de la aplicación.",
+      "Descripción: Análisis del comportamiento de usuarios para evaluar el impacto de una actualización en las ventas de la aplicación.",
       "Logros: Determiné las etapas con mayor pérdida de usuarios; comprobé la correcta aleatorización de grupos A/A; validé que el cambio de diseño no afectaba la conversión utilizando pruebas estadísticas.",
       "Tecnologías: Python (Pandas, Matplotlib, SciPy).",
     ],
@@ -121,18 +109,18 @@ export const projects = [
 ];
 
 export const awards = [
-  {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
-  },
-  {
-    name: "Fusce Hack",
-    issuer: "Fusce Club",
-    date: "Jul 2022",
-    type: "National",
-    position: "Most Impactful Hack",
-  },
+//  {
+//    name: "Lorem Ipsum Award",
+//    issuer: "Lorem Organization",
+//    date: "Jan 2020",
+//    type: "International",
+//    position: "First Place",
+//  },
+//  {
+//    name: "Fusce Hack",
+//    issuer: "Fusce Club",
+//    date: "Jul 2022",
+//    type: "National",
+//    position: "Most Impactful Hack",
+//  },
 ];
