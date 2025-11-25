@@ -80,11 +80,11 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: ["Python"],
-  frontendDevelopment: [],
-  backendDevelopment: [],
-  databaseAndStorage: [],
-  cloudAndDevOps: [],
-  toolsAndServices: [],
+//  frontendDevelopment: [],
+//  backendDevelopment: [],
+//  databaseAndStorage: [],
+//  cloudAndDevOps: [],
+//  toolsAndServices: [],
 };
 
 export const projects = [
@@ -108,7 +108,7 @@ export const projects = [
   },
 ];
 
-export const awards = [
+//export const awards = [
 //  {
 //    name: "Lorem Ipsum Award",
 //    issuer: "Lorem Organization",
